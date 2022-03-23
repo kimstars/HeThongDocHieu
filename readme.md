@@ -1,2 +1,12 @@
+python 3.8
+
+linux 
+
+fastapi
+
+RUN : 
+
 pip install -r requirements.txt
-run :  hypercorn main:app --reload 
+
+
+hypercorn main:app --reload 
